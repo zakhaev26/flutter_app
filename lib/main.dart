@@ -1,4 +1,4 @@
-import 'package:first_flutter_project/home_view.dart';
+import 'package:first_flutter_project/Screen/home_view.dart';
 import 'package:flutter/material.dart';
 
 //material.dart is the most important import of the project
